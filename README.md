@@ -21,5 +21,5 @@ For a new story
 -	Create your step definitions for how to do what the user wants to achieve
 # Reporting
 - This project uses the Serenity reports which acts as a living documentation of results.
-- After running the "mvn clean verify", or “mvn clean test” the report is available at \kiwisaverWeb\reports\timestamp folder if the test is initiated from the command prompt.
-- If tests are started from TestRunner class (which is inside com.westpac.webapp.testRunner package), then results will be available at target/site/serenity/index.html
+- After running the **"mvn clean verify", or “mvn clean test”** the report is available at **\kiwisaverWeb\reports\timestamp** folder if the test is initiated from the command prompt.
+- If tests are started from **TestRunner** class (which is inside com.westpac.webapp.testRunner package), then results will be available at **target/site/serenity/index.html**
