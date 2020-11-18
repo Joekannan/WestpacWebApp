@@ -12,8 +12,8 @@ In this project, the AUT is https://www.westpac.co.nz/.
 -	**mvn clean test -Dcucumber.options=”—tags @smoke”** – This will run one of the scenarios from KiwiSaverCalc.feature in chrome browser
 -	In case of running all the scenarios from all feature files, use **“mvn clean test serenity:aggregate”** which will run all scenarios and produce the aggregated results.
 -	serenity.properties file contain the configuration for different browsers, Saucelabs integration and Applitools Integration.
--	When you want to run the test in Saucelabs, uncomment the Saucelabs configurations and run the test from CLI using **“mvn clean test serenity:aggregate”**
--	When scenarios from “ApplitoolsTest.feature” is executed, make sure that the Applitools config in properties file is uncommented.
+-	When you want to run the test in **Saucelabs**, uncomment the Saucelabs configurations and run the test from CLI using **“mvn clean test serenity:aggregate”**
+-	When scenarios from “ApplitoolsTest.feature” is executed, make sure that the **Applitools** config in properties file is uncommented.
 -	To run the tests in Parallel mode, use **“mvn clean verify”**. This will open 3 chrome driver instances, as thread count 3 is configured in failsafe-plugin. Each feature will be run in one thread (not scenarios)
 # How to add further tests
 For a new story
