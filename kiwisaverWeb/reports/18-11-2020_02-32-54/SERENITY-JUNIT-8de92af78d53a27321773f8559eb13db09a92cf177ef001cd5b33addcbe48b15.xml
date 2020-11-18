@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="KiwiSaver Retirement Calculator" skipped="0" tests="2" time="49.08" timestamp="2020-11-18 03:33:47"><testcase name="KiwiSaver - Information icon - UI validation using Applitools"/><testcase name="KiwiSaver Calculation at retirement for Employed Users"><failure message="Failed to set the viewport size" type="com.applitools.eyes.exceptions.TestFailedException">Failed to set the viewport size</failure><system-err>Failed to set the viewport size&#13;
+com.applitools.eyes.selenium.SeleniumEyes.setViewportSize(SeleniumEyes.java:1560)&#13;
+com.applitools.eyes.EyesBase.ensureViewportSize(EyesBase.java:1246)&#13;
+com.applitools.eyes.EyesBase.startSession(EyesBase.java:1182)&#13;
+com.applitools.eyes.EyesBase.ensureRunningSession(EyesBase.java:919)&#13;
+com.applitools.eyes.EyesBase.openBaseAsync(EyesBase.java:910)&#13;
+com.applitools.eyes.EyesBase.openBase(EyesBase.java:843)&#13;
+com.applitools.eyes.selenium.SeleniumEyes.open(SeleniumEyes.java:281)&#13;
+com.applitools.eyes.selenium.SeleniumEyes.open(SeleniumEyes.java:243)&#13;
+com.applitools.eyes.selenium.Eyes.open(Eyes.java:122)&#13;
+com.westpac.webapp.pages.Applitools.openEyes(Applitools.java:26)&#13;
+com.westpac.webapp.steps.ApplitoolSteps.setupEye(ApplitoolSteps.java:21)&#13;
+com.westpac.webapp.stepDef.ApplitoolsStepDef.i_set_up_Applitools(ApplitoolsStepDef.java:29)&#13;
+✽.I setup Applitools(C:/WestPac/kiwisaverWeb/src/test/resources/features/KiwiSaver/ApplitoolsTest.feature:14)&#13;
+</system-err></testcase></testsuite>

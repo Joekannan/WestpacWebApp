@@ -1,0 +1,12 @@
+Parallel02IT.class
+com\westpac\webapp\testRunner\TestRunner.class
+Parallel01IT.class
+com\westpac\webapp\pages\KiwiSaverCalcPage.class
+com\westpac\webapp\stepDef\KiwiSaverStepDef.class
+com\westpac\webapp\pages\BasePage.class
+com\westpac\webapp\pages\HomePage.class
+com\westpac\webapp\steps\KiwiSaverSteps.class
+com\westpac\webapp\pages\Applitools.class
+com\westpac\webapp\steps\ApplitoolSteps.class
+Parallel03IT.class
+com\westpac\webapp\stepDef\ApplitoolsStepDef.class

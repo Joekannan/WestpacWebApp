@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"KiwiSaver Retirement Calculator","KiwiSaver - Information icon - UI validation using Applitools","SUCCESS","2020-11-17T18:14:42.082+13:00[Pacific/Auckland]","0.0","46.79"
+"KiwiSaver Retirement Calculator","KiwiSaver - Information icon","SUCCESS","2020-11-17T18:14:42.082+13:00[Pacific/Auckland]","0.0","101.79"
+"KiwiSaver Retirement Calculator","KiwiSaver Calculation at retirement for Employed Users","SUCCESS","2020-11-17T18:14:42.082+13:00[Pacific/Auckland]","0.0","21.9"
+"KiwiSaver Retirement Calculator","KiwiSaver Calculation at retirement for Self Employed and Not Employed Users","SUCCESS","2020-11-17T18:15:04.883+13:00[Pacific/Auckland]","0.0","37.65"
